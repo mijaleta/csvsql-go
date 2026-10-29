@@ -1,0 +1,32 @@
+schema_version = "1.3"
+
+[task]
+name = "mijaleta/csvsql-go"
+description = "Implement a SQL query engine over CSV files in Go with only the standard library: a SELECT dialect with joins, grouping and aggregates, subqueries, set operations and SQLite's value semantics, scored on a hidden suite of queries whose expected outputs come from SQLite 3.45."
+keywords = ["go", "sql", "query-engine", "csv", "parsing", "database"]
+
+[metadata]
+difficulty = "hard"
+category = "software"
+
+[agent]
+timeout_sec = 72000.0
+user = "agent"
+
+[verifier]
+# Go build with a fresh cache (well under 5 minutes) plus 292 cases capped at 10 s each.
+timeout_sec = 3600.0
+
+[environment]
+build_timeout_sec = 1800.0
+network_mode = "no-network"
+cpus = 2
+memory_mb = 4096
+storage_mb = 10240
+gpus = 0
+
+[environment.env]
+
+[verifier.env]
+
+[solution.env]

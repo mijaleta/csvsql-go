@@ -1,0 +1,19 @@
+id:INTEGER,title:TEXT,author_id:INTEGER,genre:TEXT,pages:INTEGER,price:REAL
+1,Book A,4,poetry,109,30.25
+2,Book B,4,essay,408,16.26
+3,Book C,2,essay,104,38.32
+4,Book D,4,poetry,239,28.5
+5,Book E,4,novel,107,
+6,Book F,2,poetry,264,18.79
+7,Book G,1,poetry,815,14.73
+8,Book H,5,poetry,536,7.5
+9,Book I,3,drama,84,18.06
+10,Book J,2,drama,768,
+11,Book K,3,essay,493,18.14
+12,Book L,3,poetry,432,29.63
+13,Book M,5,essay,354,23.04
+14,Book N,1,essay,342,11.84
+15,Book O,5,poetry,368,
+16,Book P,4,drama,166,9.15
+17,Book Q,4,essay,761,24.1
+18,Book R,,essay,314,25.25

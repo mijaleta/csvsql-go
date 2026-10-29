@@ -1,0 +1,7 @@
+id:INTEGER,name:TEXT,country:TEXT,born:INTEGER
+1,Tsegaye Gabre-Medhin,ET,1936
+2,Chimamanda Adichie,NG,1977
+3,José Saramago,PT,1922
+4,Ngũgĩ wa Thiong'o,KE,1938
+5,Ursula Le Guin,US,1929
+6,Anonymous,,

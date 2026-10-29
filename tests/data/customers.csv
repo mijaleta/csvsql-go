@@ -1,0 +1,26 @@
+id:INTEGER,name:TEXT,country:TEXT,email:TEXT,joined:TEXT
+1,Priya Ueda,PT,priya1@example.com,2023-08-14
+2,Mateo Yilma,PT,mateo2@example.com,2024-12-11
+3,Abebe Silva,KE,abebe3@example.com,2021-08-09
+4,Priya Jensen,BR,priya4@example.com,2023-05-25
+5,Yusuf Costa,PT,,2020-05-13
+6,Kofi Kamau,US,kofi6@example.com,2019-07-01
+7,Gustav Lopes,BR,gustav7@example.com,2021-12-14
+8,Priya Yilma,BR,priya8@example.com,2021-08-22
+9,Priya Petrov,PT,priya9@example.com,2020-04-22
+10,Liam Weber,US,,2024-06-11
+11,Dawit Mendes,US,dawit11@example.com,2019-05-13
+12,Gustav Brook,BR,gustav12@example.com,2022-06-18
+13,Kofi Ito,,kofi13@example.com,2024-10-01
+14,Yusuf Alemu,PT,yusuf14@example.com,2020-04-20
+15,Rafael Weber,ET,,2022-12-25
+16,Gustav Kamau,PT,gustav16@example.com,2020-11-24
+17,Selam Ito,US,selam17@example.com,2019-02-24
+18,Hana Núñez,US,hana18@example.com,2022-09-16
+19,Kofi Ångström,US,kofi19@example.com,2022-11-21
+20,Wanjiru Yilma,DE,,2023-10-16
+21,Mekdes Yilma,KE,mekdes21@example.com,2020-07-07
+22,Zoë Costa,ET,zoë22@example.com,2019-04-07
+23,Elif Costa,ET,elif23@example.com,2021-08-24
+24,Bruno Ueda,KE,bruno24@example.com,2020-03-26
+25,Priya Tadesse,KE,,2020-08-11

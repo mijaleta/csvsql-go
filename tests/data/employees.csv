@@ -1,0 +1,41 @@
+id:INTEGER,name:TEXT,dept_id:INTEGER,title:TEXT,salary:REAL,hired:TEXT,manager_id:INTEGER,bonus:REAL
+1,Priya O'Neil,4,Analyst,97750.0,2022-05-24,,
+2,Farah Ueda,2,Analyst,119250.0,2019-07-25,1,5500.5
+3,Jonas O'Neil,5,Intern,93500.0,2018-04-28,2,3000.0
+4,Hana Fischer,5,Senior Engineer,100250.0,2020-12-14,2,4750.5
+5,Wanjiru Varga,5,Manager,132250.0,2022-12-03,2,1000.5
+6,Mateo Weber,6,Engineer,61250.0,2017-09-14,1,3500.0
+7,Lena Costa,6,Senior Engineer,96000.0,2018-05-18,6,
+8,Zoë Ito,3,Engineer,53250.25,2019-04-18,3,
+9,Viktor Ito,6,Director,69250.25,2023-05-08,,1500.5
+10,Chen Núñez,1,Engineer,127250.25,2021-08-08,5,1500.0
+11,Sofia Varga,5,Designer,123000.25,2020-09-07,3,2250.5
+12,Farah Quist,1,Analyst,120500.25,2019-03-10,2,
+13,Chen Ito,5,Director,101000.0,2016-11-21,3,3500.5
+14,Jonas Silva,2,Engineer,128500.5,2023-05-26,4,
+15,Sofia Diallo,5,Intern,98250.0,2020-01-06,6,
+16,Yusuf Haile,5,Manager,45250.0,2023-11-06,1,
+17,Amara Kamau,,Designer,87000.0,2013-10-07,1,8500.0
+18,Tomas Ito,1,Intern,91500.0,2013-03-21,4,4500.0
+19,Elif O'Neil,1,Engineer,94000.0,2022-10-04,7,8750.0
+20,Kofi Girma,3,Senior Engineer,76750.25,2024-12-15,2,3000.5
+21,Elif Quist,5,Analyst,132500.0,2016-09-05,7,7500.0
+22,Omar Diallo,3,Analyst,46250.0,2019-06-14,2,
+23,Liam Diallo,5,Director,88250.25,2013-09-14,4,
+24,Dawit Jensen,5,Engineer,42500.0,2024-11-21,5,3000.0
+25,Bruno Girma,1,Manager,80250.25,2024-09-16,2,6250.5
+26,Tomas Petrov,1,Analyst,138000.0,2021-11-12,,
+27,Hana Núñez,4,Senior Engineer,63750.25,2022-11-14,6,3000.0
+28,Chen Eriksen,6,Intern,58750.0,2018-11-05,2,7750.0
+29,Priya Núñez,6,Senior Engineer,78000.0,2023-07-28,2,5500.0
+30,Liam Tadesse,6,Manager,116500.5,2020-08-10,8,
+31,Mateo Tadesse,6,Senior Engineer,108500.5,2018-05-08,8,5500.5
+32,Nia Mendes,1,Director,38250.0,2019-04-04,8,2000.0
+33,Lena Zeller,,Director,54750.5,2015-04-19,8,5500.0
+34,Yusuf Alemu,3,Analyst,47250.5,2014-09-15,5,
+35,Nia Tadesse,5,Analyst,79250.25,2021-11-18,6,
+36,Yusuf Brook,1,Designer,45500.0,2020-01-28,4,3000.5
+37,Sofia Quist,6,Analyst,115750.0,2020-11-11,5,
+38,Selam Ueda,1,Director,68500.5,2013-03-28,1,4000.5
+39,Mekdes Ueda,4,Senior Engineer,94500.0,2015-01-18,8,
+40,Hana Ueda,5,Director,82250.0,2024-11-19,4,5750.5

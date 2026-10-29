@@ -1,0 +1,8 @@
+id:INTEGER,name:TEXT,city:TEXT,budget:INTEGER
+1,Engineering,Berlin,900000
+2,Sales,Lisbon,450000
+3,Marketing,Lisbon,300000
+4,Support,Nairobi,200000
+5,Finance,,250000
+6,Research,Addis Ababa,600000
+7,Legal,Berlin,150000
